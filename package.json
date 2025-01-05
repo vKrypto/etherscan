@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sol2uml": "^2.5.20"
+  }
+}
