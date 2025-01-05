@@ -1,0 +1,5 @@
+sol2uml class "./@etherscan/contracts/data-stores/ComplianceConfigurationDataStore.sol" -o "./uml/contracts/data-stores/ComplianceConfigurationDataStore.svg"
+sol2uml class "./@etherscan/contracts/data-stores/ComplianceServiceDataStore.sol" -o "./uml/contracts/data-stores/ComplianceServiceDataStore.svg"
+sol2uml class "./@etherscan/contracts/data-stores/OmnibusTBEControllerDataStore.sol" -o "./uml/contracts/data-stores/OmnibusTBEControllerDataStore.svg"
+sol2uml class "./@etherscan/contracts/data-stores/ServiceConsumerDataStore.sol" -o "./uml/contracts/data-stores/ServiceConsumerDataStore.svg"
+sol2uml class "./@etherscan/contracts/data-stores/TokenDataStore.sol" -o "./uml/contracts/data-stores/TokenDataStore.svg"
